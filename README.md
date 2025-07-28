@@ -1,4 +1,7 @@
 # Employee Retention Analysis Project
+Prepared by: 
+## Analyst
+**Bilal Hassan Nizami**
 
 ##  Predicting Employee Attrition Using Machine Learning
 
@@ -61,8 +64,3 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
-
----
-
-## Analyst
-**Bilal Hassan Nizami**
